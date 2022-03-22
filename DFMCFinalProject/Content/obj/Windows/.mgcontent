@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/fonts/fontEnterPlayerName.spritefont</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/fonts/headerEnterPlayerName.spritefont</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/fonts/headerMenuFont.spritefont</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/fonts/highlightedMenuFont.spritefont</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/fonts/leaderBoardHeader.spritefont</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/fonts/regularMenuFont.spritefont</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/arrow.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/background.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/frame10-bird.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/frame1-bird.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/frame-1-rat.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/frame-1-run.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/frame-1-still.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/frame2-bird.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/frame-2-rat.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/frame-2-run.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/frame-2-still.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/frame3-bird.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/frame-3-rat.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/frame-3-run.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/frame4-bird.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/frame-4-run.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/frame5-bird.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/frame5-run.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/frame6-bird.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/frame-6-run.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/frame7-bird.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/frame8-bird.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/frame9-bird.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/Jump-fall.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/Jump-up.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/road.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/images/TrashCan.png</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/sounds/button-21.wav</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/sounds/gameTheme.mp3</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/sounds/maro-jump-sound-effect_1.wav</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/sounds/menuTheme.mp3</File>
+    <File>D:/3rd Semester/PROG2370 - Game Programming/FinalProject/DFMCFinalProject/DFMCFinalProject/Content/sounds/sfx-defeat.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
